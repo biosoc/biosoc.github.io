@@ -29,11 +29,24 @@ tag_archive_path: "/tags/#"
 
 permalink: /:categories/:title/
 markdown: kramdown
+highlighter: rouge
 feed:
   path: atom.xml
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+exlude: ["Gemfile", "Gemfile.lock"]
+
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
   - jekyll-paginate
 
