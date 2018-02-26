@@ -21,4 +21,10 @@ twitter:
   shortname: DeeprajPandey
 liquid:
   error_mode: strict
-
+paginate: 7
+paginate_path: /page:num/
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-paginate
