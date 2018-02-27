@@ -2,6 +2,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: mmistakes/so-simple-theme
+
+# Site settings
 locale: en-GB
 title: "Biology Society Blog"
 description: "Blog maintained by the Biology Society of Ashoka University."
@@ -19,31 +21,31 @@ google_fonts:
 google-analytics: "UA-70147403-4"
 twitter:
   shortname: DeeprajPandey
+
+# Liquid
 liquid:
   error_mode: strict
-search_full_content: true
-paginate: 7
-paginate_path: /page:num/
-category_archive_path: "/categories/#"
-tag_archive_path: "/tags/#"
 
+# Build settings
 permalink: /:categories/:title/
 markdown: kramdown
 highlighter: rouge
 feed:
   path: atom.xml
 
-kramdown:
-  input: GFM
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..2
-  enable_coderay: false
+
+# Search
+search_full_content: true
+
+# Pagination
+paginate: 7
+paginate_path: /page:num/
+
+# Taxonomoy pages
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
 
 exlude: ["Gemfile", "Gemfile.lock"]
-
-comments: true
 
 plugins:
   - jekyll-seo-tag
@@ -60,10 +62,31 @@ defaults:
       type: posts
     values:
       layout: post
+      comments: true
       share: true
+
+# Site Author
+author:
+  name: Deepraj Pandey
+  picture: /img/deepraj.jpg
+  email: deepraj11pandey@gmail.com
+  twitter: DeeprajPandey
+  links:
+    - title: Twitter
+      url: https://twitter.com/DeeprajPandey
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://instagram.com/deeprajpandey
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/DeeprajPandey
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
+  - title: GitHub
+    url: https://github.com/biosoc
+    icon: fab fa-github-square
   - title: Feed
     url: atom.xml
     icon: fas fa-rss-square
