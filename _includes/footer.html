@@ -18,7 +18,7 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}.. Made with <span style="color: #e25555;">&#9829;</span> by <a href="https://github.com/DeeprajPandey">Deepraj Pandey</a> &amp; {{ site.data.text[site.locale].powered_by | default: "powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. Made with <span style="color: #e25555;">&#9829;</span> by <a href="https://github.com/DeeprajPandey">Deepraj Pandey</a> &amp; {{ site.data.text[site.locale].powered_by | default: "powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.</p>
     {% endif %}
   </div>
 </footer>
