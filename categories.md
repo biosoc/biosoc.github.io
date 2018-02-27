@@ -1,3 +1,7 @@
-title: Categories Archive
+---
+title: Category Archive
 layout: categories
-permalink: /foo/
+permalink: /categories/
+show_excerpts: true
+entries_layout: list
+---
