@@ -3,8 +3,11 @@
 Shashwat Goyal:
   name: "Shashwat Goyal"
   picture: "img/shashwat.jpeg"
-  twitter: "@DeeprajPandey"
+  twitter: "@Saurophaganax22"
   links:
+    - title: Email
+      url: mailto:shashwat.goyal_ug20@ashoka.edu.icon
+      icon: fab fa-envelope-square
     - title: Twitter
       url: https://twitter.com/Saurophaganax22
       icon: fab fa-twitter-square
