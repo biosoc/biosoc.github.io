@@ -45,7 +45,7 @@ paginate_path: /page:num/
 category_archive_path: "/categories/#"
 tag_archive_path: "/tags/#"
 
-exlude: ["Gemfile", "Gemfile.lock"]
+exclude: ["Gemfile", "Gemfile.lock"]
 
 plugins:
   - jekyll-seo-tag
@@ -62,7 +62,6 @@ defaults:
       type: posts
     values:
       layout: post
-      comments: true
       share: true
 
 # Site Author
