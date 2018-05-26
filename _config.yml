@@ -14,10 +14,10 @@ date_format: "%B %d, %Y"
 read_time: true
 words_per_minute: 200
 google_fonts:
-  - name: Ubuntu
+  - name: "Ubuntu"
     weights: "400,400i,700,700i"
-  - name: "Crimson Text"
-    weights: "400,400i,700"
+  - name: "Nanum Myeongjo"
+    weights: "400,700"
 google-analytics: "UA-70147403-4"
 twitter:
   shortname: DeeprajPandey
