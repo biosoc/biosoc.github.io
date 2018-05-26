@@ -10,7 +10,7 @@ description: "Blog maintained by the Biology Society of Ashoka University."
 baseurl: 
 url: "https://biosoc.github.io"
 logo: "/img/logo.png"
-date_format: "%d-%m-%Y"
+date_format: "%B %d, %Y"
 read_time: true
 words_per_minute: 200
 google_fonts:
