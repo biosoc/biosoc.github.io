@@ -12,7 +12,7 @@ tags:
 last_modified_at: 2018-02-18T12:32:16-05:00
 ---
 
-This article was first posted on <a href="https://medium.com/the-edict/psychology-student-at-ashoka-asks-can-fish-do-math-eed143502044" target="_blank">the Edict</a> on the 10th of March, 2018.
+This article was first posted on <a href="https://medium.com/the-edict/psychology-student-at-ashoka-asks-can-fish-do-math-eed143502044">the Edict</a> on the 10th of March, 2018.
 {: .notice}
 
 The recent introduction of Biology in the Ashokan curriculum might indicate that it’s the new kid in the playground, but that’s not exactly true. Research in bio-psychology or more commonly, cognition, is already a part of Ashoka’s research culture. For his research proposal, Dhairyya Singh, a fourth-year psychology major, has dared to ask the question — Can zebrafish do math?
