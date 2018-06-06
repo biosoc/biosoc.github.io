@@ -35,7 +35,7 @@ It was earlier thought that the teeth were used to hack and slash at the belly o
 </figure>
 
 <figure class="align-left">
-  <img src="{{ '/img/saber3.png' | absolute_url }}" alt="Zibrafish scan.">
+  <img src="{{ '/img/saber4.png' | absolute_url }}" alt="Zibrafish scan.">
   <figcaption>The mouth is withdrawn and meat is sheared off. (Source of all illustrations ---<cite>"Ice Age Giants; episode 1: Land of the Sabre-Tooth"</cite>)</figcaption>
 </figure>
 
