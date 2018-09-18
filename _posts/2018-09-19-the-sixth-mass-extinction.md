@@ -10,6 +10,8 @@ last_modified_at: 2018-08-18T09:14:11-05:00
 Extinction can be seen as a method that nature employs to curb out species that will not evolve or are redundant in its eyes. By definition, it is a state where no member of a species is alive to carry forward the generation. However, a mass extinction is a phenomenon where 90 to 95 % of all species, which means most life on the planet, would disappear in a very short period of time! These are times when the Earth undergoes immense turmoil; it metamorphoses from the life-giving mother to the life-devouring devil. The destruction helps to create newer species that adapt better, life springs forth again, and the earth finds a way to continue. There have already been five of these cataclysmic events, that is, if we do not count the numerous minor level ones.
 {: .text-justify}
 
+<!--more-->
+
 In recent years, scientists and environmentalists have argued that a Sixth Mass Extinction, known as the Holocene extinction, is underway due to increased anthropogenic activity faced by the Earth. In the past 100 years, we have seen many species go extinct or become endangered because they have been hunted down or because their habitats have been altered due to human encroachment. Therefore, it is argued that a Sixth Mass Extinction is currently taking place.
 {: .text-justify}
 
