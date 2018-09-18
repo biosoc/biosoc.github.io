@@ -1,6 +1,6 @@
 ---
 title: "The Sixth Mass Extinction"
-author: Devshuvam Banerjee & Manasven Raina
+author: Devshuvam Banerjee (Edited by Manasven Raina)
 excerpt_separator: "<!--more-->"
 tags:
   - Extinction
